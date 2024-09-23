@@ -9,6 +9,5 @@ namespace DAL.DTO.Res
     public class ResLoginDto
     {
         public string? token {  get; set; }
-        public int? expiresIn { get; set; }
     }
 }
